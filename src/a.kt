@@ -1,9 +1,8 @@
 fun main(){
-    var C
-    var B
-    else(C = B)
-    var da = C
-    println "da"
-
+    var C = 10
+    var B = 10
+    if (C == B){
+        println("da")
+    }
 
 }
